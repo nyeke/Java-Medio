@@ -22,7 +22,7 @@ public class Main {
 
         Linea l1 = new Linea(p1,p2);
 
-        System.out.println("==== Donde quiere desplazar ===");
+        System.out.println("==== Donde quiere desplazar ====");
         System.out.println("1. Derecha");
         System.out.println("2. Izquierda");
         System.out.println("3. Arriba");
